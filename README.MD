@@ -1,5 +1,5 @@
 Hunter Tompkins
-Lab4 Version Control
+Lab4 
 
 Partner
 	Connor Anthony
